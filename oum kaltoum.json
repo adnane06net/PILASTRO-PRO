@@ -4,8 +4,8 @@
     
     "_comment" : "admob , google_ad_manager , fan, applovin_max, ironsource, startapp, applovin_discovery",
     "ad_banner" : "applovin_max",
-    "ad_inter" : "admob",
-    "ad_native" : "admob",
+    "ad_inter" : "applovin_max",
+    "ad_native" : "applovin_max",
     "openapp" : "admob",
     "back_up" : "none",
     "ad_interval" : 3 ,
@@ -51,6 +51,7 @@
     }
   }
 }
+
 
 
 
